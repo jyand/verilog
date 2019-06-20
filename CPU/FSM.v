@@ -1,0 +1,1 @@
+module FSM(IR_15_12, pos, 
